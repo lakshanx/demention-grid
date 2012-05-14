@@ -1,3 +1,3 @@
-demention-grid
+demention Grid
 ==============
 Coming soon...
